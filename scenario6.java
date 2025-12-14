@@ -24,7 +24,7 @@ public class scenario6
         {
             System.out.println("Category: " + categories[i]);
             System.out.println("Title: " + titles[i][0]);
-            System.out.printf("Price: %.2f\n\n", prices[i][0]); // %.2f hereis used to show the last two digit of the output.
+            System.out.printf("Price: %.2f\n\n", prices[i][0]); // %.2f here is used to show the last two digit of the output.
         }
     }
 }
