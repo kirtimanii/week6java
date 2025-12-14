@@ -18,7 +18,7 @@ public class scenario6
         prices[0][0] = 750.0;
         
         titles[1][0] = "Muna Madan";
-        prices[1][0] = 500.0;
+        prices[1][0] = 550.0;
 
         for (int i = 0; i < categories.length; i++) 
         {
