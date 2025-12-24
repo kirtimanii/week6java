@@ -2,11 +2,11 @@ package workshopweek8;
 
 
 /**
- * Write a description of class ShoppingCart here.
+ * Write a description of class BankAccount here.
  *
  * K
  * v1.0
- */
+*/
 
 public class ShoppingCart 
 {

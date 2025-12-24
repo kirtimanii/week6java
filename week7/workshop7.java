@@ -2,10 +2,10 @@ package week7;
 
 
 /**
- * Write a description of class workshop7 here.
+ * Write a description of class BankAccount here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * K
+ * v1.0
  */
 public class workshop7
 {

@@ -2,10 +2,10 @@ package workshopweek8;
 
 
 /**
- * Write a description of class Employee here.
+ * Write a description of class BankAccount here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * K
+ * v1.0
  */
 public class Employee
 {
